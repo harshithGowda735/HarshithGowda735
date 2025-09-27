@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student 
+Hi Iam Harshith Gowda 
 
 
 ## 🌐 Socials:
