@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Iam Harshith Gowda 
+Hi👋 there Iam Harshith Gowda 
 
 
 ## 🌐 Socials:
