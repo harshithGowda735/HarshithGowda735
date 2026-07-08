@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AI/ML, Computer Vision, Full Stack Development and Hackathon Builds**
 
-- 📫 Reach out to me at **your.email@example.com**
+- 📫 Reach out to me at **harshithg401@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 
