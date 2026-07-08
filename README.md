@@ -32,11 +32,7 @@
 
 <br/><br/>
 
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="assets/tech-badges.svg" width="100%"/>
 
 </div>
 
@@ -86,6 +82,8 @@
 ## 🎯 Currently Building
 
 <div align="center">
+
+<img src="assets/sparkle-accent.svg" width="100%"/>
 
 ```text
 🔭 Working on hackathon-grade prototypes across AI/ML, robotics & full-stack systems
