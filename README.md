@@ -1,105 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=HARSHITH%20GOWDA&fontSize=46&fontColor=E8F1F5&fontAlignY=40&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Systems&descAlignY=65&descSize=17&animation=fadeIn&color=0:0B0F19,50:0F2A43,100:113955" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Harshith%20Gowda&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Hackathon%20Builder&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=4FD1FF&center=true&vCenter=true&width=680&lines=Engineering+Student+%40+Dr.AIT%2C+Bengaluru;Aurix+Club+%7C+Technical+Department;E-Cell+IIT+Bombay+Campus+Ambassador;Building+mission-grade+prototypes+under+deadline" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
-
-</div>
-
-## 🛰️ Connect
-
-<div align="center">
-
-<a href="https://facebook.com/HARSHITH-GOWDA" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0B0F19?style=for-the-badge&logo=facebook&logoColor=4FD1FF" />
-</a>
-<a href="https://instagram.com/__harshith___07" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0B0F19?style=for-the-badge&logo=instagram&logoColor=4FD1FF" />
-</a>
-<a href="https://linkedin.com/in/HARSHITH" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=4FD1FF" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshith+Gowda;Electronics+%26+Communication+Engineering+Student;AI+Engineer+%7C+Full+Stack+Developer;Technical+Co-Lead+%40+Aurix+Club;Social+Media+Head+%40+E-Cell+Dr.AIT;Core+Member+%40+Open+Source+%26+Linux+Club;E-Cell+IIT+Bombay+Campus+Ambassador;Building+AI+Products+for+Real+World+Problems;Always+Learning.+Always+Building." />
 </a>
 
-</div>
+<br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
-</div>
-
-## ⚙️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode,figma&theme=dark" />
+<img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon%20Builder-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ECE%20Student-FFA500?style=for-the-badge"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
-</div>
+---
 
-## 📡 Activity
+# 👨‍💻 About Me
 
-<div align="center">
+```yaml
+Name: Harshith Gowda
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithGowda735&theme=tokyo-night&hide_border=true&area=true&bg_color=0B0F19" width="100%"/>
+Location:
+  Bengaluru, India
 
-</div>
+Education:
+  Dr. Ambedkar Institute of Technology
 
-## 📊 Metrics
+Branch:
+  Electronics & Communication Engineering
 
-<div align="center">
+Current Focus:
+  Artificial Intelligence
+  Full Stack Development
+  Agentic AI
+  Computer Vision
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshithGowda735&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0B0F19" height="185"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithGowda735&theme=tokyonight&hide_border=true&background=0B0F19" height="185"/>
+Passionate About:
+  Building impactful AI products
+  Research-driven innovation
+  Hackathons
+  Open Source
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithGowda735&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0B0F19" height="185"/>
-
-</div>
-
-## 🏆 Recognition
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarshithGowda735&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
-</div>
-
-## 🐍 Contribution Grid
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/HarshithGowda735/HarshithGowda735/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-<!--END_SECTION:snake-->
-
-</div>
-
-> Needs a one-time GitHub Action (`snake.yml`, sent earlier) added to this repo to activate.
-
-## 🚀 Currently Building
-
-<div align="center">
-
-```text
-🔭  Hackathon-grade prototypes across AI/ML, robotics & full-stack systems
-🌱  Research-backed approaches for judge-ready technical submissions
-👯  Open to collaborating on high-impact, competition-oriented builds
-⚡  Turning "impossible deadline" hackathons into shipped demos
+Life Philosophy:
+  "Build first. Learn continuously. Improve relentlessly."
 ```
 
-</div>
+---
+
+# 🏆 Achievements
+
+🏅 REGALIA 2026 — 2nd Runner-Up
+
+⭐ LUMINUS 2026 — Project Shortlisted
+
+🚀 National Level Hackathon Participant
+
+🤖 AI Product Builder
+
+💡 Building innovative real-world AI solutions
+
+---
+
+# 👨‍💼 Leadership & Communities
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Leadership
+
+- Technical Co-Lead — Aurix Club
+- Social Media Head — E-Cell Dr AIT
+- Core Member — Open Source & Linux Club
+
+</td>
+
+<td width="50%">
+
+### 🌍 Communities
+
+- E-Cell IIT Bombay Campus Ambassador
+- GDG Volunteer
+- Hackathon Enthusiast
+- Open Source Contributor
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Tech Universe
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshithGowda735&color=113955&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/HarshithGowda735)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,linux,vscode,figma,matlab,opencv,tensorflow,postman,vercel,netlify&perline=8"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:0B0F19,50:0F2A43,100:113955"/>
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
+
+---
+
+## 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+
+---
+
+## 🤖 AI / ML
+
+✔ Gemini API
+
+✔ TensorFlow Lite
+
+✔ OpenCV
+
+✔ Prompt Engineering
+
+✔ Computer Vision
+
+✔ AI Integrations
+
+---
+
+## ☁ Deployment
+
+Vercel • Netlify • Render
+
+---
+
+## 🛠 Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Linux
+
+Figma
+
+MATLAB
+
+Postman
+
+---
+
+# 🧬 Developer DNA
+
+```text
+AI & Machine Learning      ███████████░   90%
+
+Full Stack Development     ██████████░░   85%
+
+Hackathons                 ████████████   100%
+
+Problem Solving            ███████████░   90%
+
+UI Development             █████████░░░   80%
+
+Team Collaboration         ███████████░   90%
+```
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 Agentic AI
+
+- 🧠 Large Language Models (LLMs)
+
+- 📚 Retrieval-Augmented Generation (RAG)
+
+- 🔗 Model Context Protocol (MCP)
+
+- 👁 Computer Vision
+
+- 🛰 Edge AI
+
+- ⚡ AI Automation
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
