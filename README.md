@@ -1,73 +1,77 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=HARSHITH%20GOWDA&fontSize=46&fontColor=E8F1F5&fontAlignY=40&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Hackathon%20Systems&descAlignY=65&descSize=17&animation=fadeIn&color=0:0B0F19,50:0F2A43,100:113955" width="100%"/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=4FD1FF&center=true&vCenter=true&width=680&lines=Engineering+Student+%40+Dr.AIT%2C+Bengaluru;Aurix+Club+%7C+Technical+Department;E-Cell+IIT+Bombay+Campus+Ambassador;Building+mission-grade+prototypes+under+deadline" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
 
 </div>
 
-## 🌐 Connect With Me
+## 🛰️ Connect
 
 <div align="center">
 
 <a href="https://facebook.com/HARSHITH-GOWDA" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-0B0F19?style=for-the-badge&logo=facebook&logoColor=4FD1FF" />
 </a>
 <a href="https://instagram.com/__harshith___07" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-0B0F19?style=for-the-badge&logo=instagram&logoColor=4FD1FF" />
 </a>
 <a href="https://linkedin.com/in/HARSHITH" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=4FD1FF" />
 </a>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
+</div>
 
-## 💻 Tech Stack
+## ⚙️ Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode,figma&theme=dark" />
 
-<br/><br/>
-
-<img src="assets/tech-badges.svg" width="100%"/>
-
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
+</div>
 
-## 📈 Live Activity Graph
+## 📡 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithGowda735&theme=synthwave&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithGowda735&theme=tokyo-night&hide_border=true&area=true&bg_color=0B0F19" width="100%"/>
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshithGowda735&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" height="185"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithGowda735&theme=highcontrast&hide_border=true&background=0D1117&ring=FF00C8&fire=00F7FF&currStreakLabel=00F7FF" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshithGowda735&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0B0F19" height="185"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithGowda735&theme=tokyonight&hide_border=true&background=0B0F19" height="185"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithGowda735&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithGowda735&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0B0F19" height="185"/>
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Recognition
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarshithGowda735&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshithGowda735&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:113955,50:4FD1FF,100:113955&width=100%25" width="100%"/>
+</div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Grid
 
 <div align="center">
 
@@ -77,27 +81,25 @@
 
 </div>
 
-> 💡 Needs the one-time GitHub Action from `snake.yml` (sent earlier) to activate.
+> Needs a one-time GitHub Action (`snake.yml`, sent earlier) added to this repo to activate.
 
-## 🎯 Currently Building
+## 🚀 Currently Building
 
 <div align="center">
 
-<img src="assets/sparkle-accent.svg" width="100%"/>
-
 ```text
-🔭 Working on hackathon-grade prototypes across AI/ML, robotics & full-stack systems
-🌱 Exploring research-backed approaches for judge-ready technical submissions
-👯 Looking to collaborate on high-impact, competition-oriented builds
-⚡ Fun fact: I turn "impossible deadline" hackathons into shipped demos
+🔭  Hackathon-grade prototypes across AI/ML, robotics & full-stack systems
+🌱  Research-backed approaches for judge-ready technical submissions
+👯  Open to collaborating on high-impact, competition-oriented builds
+⚡  Turning "impossible deadline" hackathons into shipped demos
 ```
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshithGowda735&color=ff00c8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/HarshithGowda735)
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshithGowda735&color=113955&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/HarshithGowda735)
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:0B0F19,50:0F2A43,100:113955"/>
 
 </div>
