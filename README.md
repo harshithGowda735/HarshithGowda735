@@ -19,7 +19,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithgowda&show_icons=true&locale=en&theme=tokyonight" alt="harshithgowda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithgowda735&show_icons=true&locale=en&theme=tokyonight" alt="[harshithgowda](https://github.com/harshithGowda735)" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithgowda&theme=tokyonight" alt="https://github.com/harshithGowda735" /></p>
 
