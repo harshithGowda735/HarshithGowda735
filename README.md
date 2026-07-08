@@ -11,7 +11,7 @@
 
 - 🌍 I'm an **E-Cell IIT Bombay Campus Ambassador**
 
-- 💻 All of my projects are available on [GitHub](https://github.com/harshithgowda)
+- 💻 All of my projects are available on [GitHub](https://github.com/harshithGowda735)
 
 - 💬 Ask me about **AI/ML, Computer Vision, Full Stack Development and Hackathon Builds**
 
