@@ -13,8 +13,6 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/harshithGowda735)
 
-- 💬 Ask me about **AI/ML, Computer Vision, Full Stack Development and Hackathon Builds**
-
 - 📫 Reach out to me at **harshithg401@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
