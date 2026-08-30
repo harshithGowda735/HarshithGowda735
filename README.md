@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithgowda&label=Profile%20views&color=0e75b6&style=flat" alt="harshithgowda" /> </p>
 
-- 🌱 I'm currently learning **Agentic AI, Large Language Models and Retrieval-Augmented Generation (RAG)**
-
-- 👨‍💻 I'm currently working on **AI-powered hackathon projects** and building tools as **Technical Co-Lead @ Aurix Club**
-
-- 🎯 I'm the **Social Media Head @ E-Cell Dr. AIT** and a **Core Member @ Open Source & Linux Club**
-
-- 🌍 I'm an **E-Cell IIT Bombay Campus Ambassador**
+-
 
 - 💻 All of my projects are available on [GitHub](https://github.com/harshithGowda735)
 
