@@ -61,53 +61,62 @@ I enjoy exploring how LLMs, RAG pipelines, AI agents, and backend systems can so
 
 ---
 
+<div align="center">
+
 ## `04` — Tech Arsenal
 
 ### Programming Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark" />
-</p>
 
 ### Frontend Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark" />
-</p>
 
 ### Backend Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-</p>
 
-`REST APIs` · `Socket.IO` · `WebSockets`
+<img src="https://img.shields.io/badge/REST_APIs-0877C9?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-123B8A?style=flat-square" />
 
 ### AI / Machine Learning
 
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
-</p>
 
-`LLMs` · `RAG` · `Agentic AI` · `LangChain` · `Gemini API` · `FAISS`
+<img src="https://img.shields.io/badge/LLMs-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-123B8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_AI-0877C9?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C7C54?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-00A6D6?style=flat-square" />
 
 ### Databases & Cloud
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase&theme=dark" />
-</p>
 
 ### Electronics, Hardware & Computing
 
-`Analog Electronics` · `Circuit Analysis` · `Verilog` · `Digital Design` · `Embedded Systems` · `IoT` · `CUDA Programming` · `GPU Computing` · `Parallel Computing`
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://img.shields.io/badge/Analog_Electronics-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Circuit_Analysis-123B8A?style=flat-square" />
+<img src="https://img.shields.io/badge/Verilog-0877C9?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital_Design-164E9A?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded_Systems-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-00A6D6?style=flat-square" />
+<img src="https://img.shields.io/badge/CUDA_Programming-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/GPU_Computing-00A6D6?style=flat-square" />
+<img src="https://img.shields.io/badge/Parallel_Computing-123B8A?style=flat-square" />
 
 ### Tools & Platforms
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark" />
-</p>
+
+</div>
 
 ---
+
 
 ## `05` — Featured Projects
 
