@@ -156,7 +156,6 @@ An AI-powered platform combining intelligent agents, tool calling, and knowledge
 - Offline vulnerability knowledge retrieval
 - Evidence-based AI responses
 
-🏆 Build with Gemma Winner
 
 </td>
 </tr>
