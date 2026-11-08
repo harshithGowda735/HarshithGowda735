@@ -45,23 +45,6 @@ I enjoy exploring how LLMs, RAG pipelines, AI agents, and backend systems can so
 
 ---
 
-## `02` — Achievements & Recognition
-
-<div align="center">
-
-| 🏆 Competition / Recognition | Achievement |
-|:---|:---:|
-| **Build with Gemma** | 🏆 Winner — Creative Use of Gemma |
-| **Blitzkrieg 2026 — Team Ctrl+Win** | 🥇 Top 1 |
-| **DevHack 3.0** | ⭐ Top 5 |
-| **VectorFlow — VVCE** | ⭐ Top 4 |
-| **LUMINUS — RNSIT** | ⭐ Top 10 — MCP Track |
-| **KrushiMithra Techsprint** | ⭐ Top 10 / 200+ |
-| **REGALIA — PawRescue** | 🥈 2nd Runner-Up |
-| **Vibe2Ship** | 🏆 Winner |
-
-</div>
-
 ---
 
 ## `03` — Leadership & Community
