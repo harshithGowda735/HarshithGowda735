@@ -5,18 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050B1A,40:123B8A,75:0877C9,100:00B8FF&text=HARSHITH%20GOWDA%20G%20S&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20AI%20%2B%20Full%20Stack&descAlignY=58&descSize=16&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00B8FF&center=true&vCenter=true&width=700&lines=AI+%2B+Full+Stack+Developer;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Open+Source+Contributor;Hackathon+Builder+%7C+Problem+Solver;Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:171738,100:2563EB&height=200&section=header&text=HARSHITH%20GOWDA%20G%20S&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20%7C%20OPEN%20SOURCE&descAlignY=58&descSize=15&animation=fadeIn" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Exploring+Agentic+AI+%26+LLMs;Turning+Ideas+Into+Working+Products;Learning+%7C+Building+%7C+Contributing" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=harshithGowda735&label=PROFILE%20VIEWS&color=0877C9&style=flat-square" />
+<a href="https://github.com/harshithGowda735">
+<img src="https://komarev.com/ghpvc/?username=harshithGowda735&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
+</a>
 
 </div>
 
