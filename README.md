@@ -51,14 +51,14 @@ I enjoy exploring how LLMs, RAG pipelines, AI agents, and backend systems can so
 
 | Role | Organization |
 |:---|:---|
-| Technical Co-Lead | Aurix Club |
-| DSA Co-Lead | Google Developer Groups (GDG) |
+| Tech Lead | Heapify Global Community |
+| DSA Co-Lead | Google Developer Groups Dr Ait |
 | Core Member | Open Source & Linux Club |
-| UI/UX Designer Lead | AstroLab Research Center |
-| Campus Ambassador | E-Cell, IIT Bombay |
+| Full Stack Developer | AstroLab Research Center |
+| Ex-Technical Co-Lead | Aurix Club |
+| Ex-Campus Ambassador | E-Cell, IIT Bombay |
+| Ex- Social Media Head | E-Cell , Dr Ait |
 | Volunteer | Google Developer Groups |
-| Former Social Media Head | E-Cell, Dr. AIT |
-
 ---
 
 <div align="center">
