@@ -98,16 +98,11 @@ I enjoy exploring how LLMs, RAG pipelines, AI agents, and backend systems can so
 
 ### Electronics, Hardware & Computing
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 <img src="https://img.shields.io/badge/Analog_Electronics-0A66C2?style=flat-square" />
-<img src="https://img.shields.io/badge/Circuit_Analysis-123B8A?style=flat-square" />
 <img src="https://img.shields.io/badge/Verilog-0877C9?style=flat-square" />
 <img src="https://img.shields.io/badge/Digital_Design-164E9A?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded_Systems-0A66C2?style=flat-square" />
 <img src="https://img.shields.io/badge/IoT-00A6D6?style=flat-square" />
 <img src="https://img.shields.io/badge/CUDA_Programming-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/GPU_Computing-00A6D6?style=flat-square" />
-<img src="https://img.shields.io/badge/Parallel_Computing-123B8A?style=flat-square" />
 
 ### Tools & Platforms
 
