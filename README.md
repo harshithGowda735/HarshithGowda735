@@ -6,39 +6,37 @@
 
 Building across software, AI, and emerging technologies.
 
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 **Frontend Development**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 **Backend Development**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 **Databases & Cloud**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
 </p>
 
 **Tools & Platforms**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
@@ -46,7 +44,7 @@ Building across software, AI, and emerging technologies.
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="mailto:harshithg401@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -57,3 +55,5 @@ Building across software, AI, and emerging technologies.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+</div>
